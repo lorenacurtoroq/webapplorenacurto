@@ -33,7 +33,7 @@ body {
 }
 
 #menu {
-    display: flex;    /* el menú és un contenidor de tipus flex */
+    display: none;    /* el menú és un contenidor de tipus flex */
     height: 8vmax;
 }
 @media (orientation: landscape) {
