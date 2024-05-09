@@ -31,6 +31,7 @@ body {
     align-items: center;    /* contingut centrat en la direcció transversal */
     font-size: 4vmax;
 }
+
 #menu {
     display: flex;    /* el menú és un contenidor de tipus flex */
     height: 8vmax;
