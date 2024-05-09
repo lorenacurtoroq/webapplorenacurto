@@ -56,8 +56,9 @@ body {
     align-items: center;
     color: white;
     background-color: #6A5ACD;
-    font-size: 4vmax;
+    font-size: 5vmax;
     cursor: pointer;    /* en ordinadors, indica que s'hi pot fer clic */
+
 }
 #seccio_0 {
     display: flex;
