@@ -43,7 +43,7 @@ body {
     #superior {
         display: none;    /* franja superior oculta per optimitzar l'espai */
     }
-    #menu {
+    #menu i{
         flex-direction: column;
         width: 8vmax;
         height: auto;    /* sobreescriu la declaració height: 8vmax; */
