@@ -113,7 +113,7 @@ body {
 #div_control i {
     cursor: pointer;
     font-size: 20vmin;    
-    color: green;
+    color: #CB88DB;
 }
 #obturador {
     position: absolute;
@@ -128,7 +128,7 @@ body {
     flex: 1;
     justify-content: center;
     align-items: center;
-    background-color: black;
+    background-color: #CB88DB;
     max-height: 100vh;
     max-height: 100svh;
     max-height: -webkit-fill-available;
