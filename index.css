@@ -38,8 +38,8 @@ body {
 #menu i{
     flex: 1;    /* cada botó pretén ocupar tot l'espai disponible */
     display: flex;    /* contenidor flex on centrar-hi la icona */
-    justify-content: left;
-    align-items: center;
+    justify-content: center;
+    align-items: left;
     color: white;
     background-color: #950E17;
     font-size: 5vmax;
