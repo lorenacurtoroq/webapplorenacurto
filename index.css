@@ -158,6 +158,9 @@ body {
         transform: rotate(-90deg);    /* gir de 90 graus correponent al canvi d'orientació */
     }
 }
+.ocult {
+    display: none !important;    /* amb prioritat sobre les declaracions condicionals segons l'orientació */
+}
 #llista_titol {
     display: flex;
     justify-content: center;
