@@ -39,7 +39,7 @@ body {
     flex: 1;    /* cada botó pretén ocupar tot l'espai disponible */
     display: flex;    /* contenidor flex on centrar-hi la icona */
     justify-content: center;
-    align-items: left;
+    align-items: center;
     color: white;
     background-color: #950E17;
     font-size: 5vmax;
