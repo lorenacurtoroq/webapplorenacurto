@@ -54,7 +54,7 @@ body {
         display: none;    /* franja superior oculta per optimitzar l'espai */
     }
     #menu i{
-        flex-direction: row;
+        flex-direction: column;
         width: 8vmax;
         height: auto;    /* sobreescriu la declaració height: 8vmax; */
     }
