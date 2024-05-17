@@ -6,7 +6,7 @@ function canvia_seccio(num_boto) {
         let seccio = document.getElementById("seccio_" + i);
         if (i == num_boto) {
             boto.style.color = "#950E17";    // es destaca la secció activa amb el canvi de colors del botó corresponent
-            boto.style.backgroundColor = "#FCDEE0";
+            boto.style.backgroundColor = "#E6E6FA";
             seccio.style.display = "flex";    // es fa visible la secció activa
         }
         else {
