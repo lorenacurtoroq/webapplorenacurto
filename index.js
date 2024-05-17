@@ -14,6 +14,9 @@ function canvia_seccio(num_boto) {
             boto.style.backgroundColor = "#950E17";
             seccio.style.display = "none";    // s'oculten les seccions inactives
         }
+        if (num_boto == 3) {    // si es prem el botó de la secció "Galeria"
+            omple_llista();
+        }
     }
 }
 let validat = false;    // variable que permet saber si hi ha algun usuari validat
